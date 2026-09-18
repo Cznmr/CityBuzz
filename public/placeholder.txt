@@ -1,0 +1,1 @@
+Place og-image.png, favicon.ico, apple-touch-icon.png and site.webmanifest here for production.
